@@ -70,12 +70,3 @@ php artisan migrate:fresh --seed
 <td><h3 align="center">Laporan Produk</h3><img src="public/backend/image/screenshot/ss_laporan_produk.png"></td>
 </tr>
 </table>
-
-## Video Tutorial
-Project ini sudah didokumentasikan dan dipublikasi melalui akun Youtube. Silakan kunjungi link <a href="https://www.youtube.com/playlist?list=PLQ-zS5A7YYio0505gQRdu9v4CJT--WSW2">berikut</a>.
-<p align="center"><a href="https://www.youtube.com/playlist?list=PLQ-zS5A7YYio0505gQRdu9v4CJT--WSW2" target="_blank"><img src="public/backend/image/screenshot/ss_preview_tutorial.png" width="800" alt="Playlist Youtube"></a></p>
-
-## Lisensi
-
-Project ini mengacu pada modul praktik dari mata kuliah Web Programming II Universitas Bina Sarana Informatika (UBSI). Project ini bersifat open-source untuk edukasi.
-<blockquote>Kuliah...? BSI AJA !!</blockquote>
